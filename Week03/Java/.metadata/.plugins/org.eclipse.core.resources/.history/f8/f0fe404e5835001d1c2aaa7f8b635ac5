@@ -1,0 +1,10 @@
+
+public class NavaEspacial implements ObjetoEspacial {
+
+	@Override
+	public int getPosicaoX() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

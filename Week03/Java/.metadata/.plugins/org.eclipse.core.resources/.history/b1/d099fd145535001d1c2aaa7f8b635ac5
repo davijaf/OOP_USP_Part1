@@ -1,0 +1,10 @@
+
+public class MP4Movie extends Movie {
+
+	@Override
+	void play() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

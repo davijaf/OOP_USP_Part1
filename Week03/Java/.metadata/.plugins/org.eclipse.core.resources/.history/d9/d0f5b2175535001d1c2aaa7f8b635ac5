@@ -1,0 +1,11 @@
+
+public class MP4Movie extends Movie {
+
+	@Override
+	void play() {
+		System.out.printlen("Que filme legal")
+		// TODO Auto-generated method stub
+
+	}
+
+}
